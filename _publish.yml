@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 719c51b0-8b3c-42bc-b848-2bcb00a69857
+      url: https://the-little-book-of.quarto.pub/multilinear-algebra
